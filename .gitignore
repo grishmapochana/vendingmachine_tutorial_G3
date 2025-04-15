@@ -1,0 +1,15 @@
+
+
+# === Editor/IDE files ===
+.vscode/
+*.code-workspace
+
+
+
+# === System/config ===
+*.env
+
+# === Optional: third-party library ===
+thrift-0.21.0/
+
+
